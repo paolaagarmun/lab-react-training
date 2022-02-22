@@ -1,0 +1,19 @@
+.id-card{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+.info {
+    flex-direction: column;
+    text-align: start;
+    margin: 5px;
+}
+.info p {
+    margin:0;
+}
+
+.id-card img {
+    margin: 10px;
+}
