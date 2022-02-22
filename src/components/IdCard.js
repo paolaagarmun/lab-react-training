@@ -1,7 +1,7 @@
 import('./IdCard.css')
 
 function IdCard(props) {
-    console.log(props)
+    //console.log(props)
     return(
         <>
         <div className='id-card'>
