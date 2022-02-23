@@ -48,3 +48,14 @@
 .box-color p {
   margin: 0;
 }
+
+.credit-card {
+  border-radius: 5px;
+  border: 1px transparent solid;
+  width: 15rem;
+  height: 6rem;
+  margin: 5px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
